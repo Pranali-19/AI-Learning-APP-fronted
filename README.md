@@ -10,7 +10,7 @@ An AI-powered full-stack learning platform that transforms study documents into 
 
 ### ⚙️ Backend API
 
-**[Backend API](https://ai-learning-app-p4y6.onrender.com)**
+**[Backend API](https://ai-learning-app-backend-iytz.onrender.com)**
 
 > The application may require users to register or log in to access protected learning features.
 
